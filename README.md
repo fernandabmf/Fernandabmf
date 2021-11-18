@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fernandabmf and currently i'm 
-studying Bachelor's degree in Information systems at IFBA (campus vitória da conquista)
+studying Bachelor's degree in Information systems at IFBA (Campus Vitória da Conquista)
 - 👀 I’m interested in development and programming
 - 🌱 I’m currently learning Java and Javascript (also HMTL/CSS) 
 - 💞️ I’m looking to collaborate on Projects, Development systems.

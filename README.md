@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/Fernandabmf">
   <img height="180em" src="https://github-readme-stats-lilac-rho.vercel.app/api?username=Fernandabmf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-lilac-rho.vercel.app/api/top-langs/?username=Fernandabmf&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats-lilac-rho.vercel.app/api/top-langs/?username=Fernandabmf&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
